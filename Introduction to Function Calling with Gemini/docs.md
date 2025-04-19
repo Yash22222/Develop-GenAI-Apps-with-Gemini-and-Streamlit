@@ -1,6 +1,6 @@
 # Introduction to Function Calling with Gemini
 
-This is the powerful **function calling** capability of Google's **Gemini API** in Vertex AI. It enables AI models not just to generate text, but to **invoke functions** based on user input — making your applications more intelligent, responsive, and dynamic.
+This is the powerful **function calling** capability of Google's **Gemini API** in Vertex AI. It enables AI models not just to generate text, but to **invoke functions** based on user input making your applications more intelligent, responsive, and dynamic.
 
 ---
 
@@ -88,7 +88,7 @@ The model will analyze the prompt and respond with a **function call request** l
 
 ### 3. Handle Function Call
 
-Once you receive the function call, you can execute the relevant backend logic (e.g., fetch weather from an API), and return the response back to Gemini to continue the conversation.
+Once you receive the function call, you can execute the relevant backend logic (e.g., fetch weather from an API), and return the response to Gemini to continue the conversation.
 
 ---
 
